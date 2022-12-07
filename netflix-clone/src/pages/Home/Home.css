@@ -1,7 +1,8 @@
-.container{
-    width: 1519px;
-    height: 734px;
+/* 
     background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/0678255b-ecfd-4775-999a-0680d539f07c/651a85d2-e544-4e51-9071-e86c94cf13e6/SE-sv-20221128-popsignuptwoweeks-perspective_alpha_website_large.jpg);
-    background-size: 100%
-    
+} */
+.logo-img{
+    width: 167px;
+    height: 45px;
 }
+

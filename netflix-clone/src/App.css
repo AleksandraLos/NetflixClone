@@ -1,0 +1,13 @@
+:root{
+    --bs-red:#db0000;
+    --bs-black: #000000;
+    --bs-white: #ffffff;
+    --bs-grey: #564d4d;
+    --bs-dark-red:#831010;
+}
+*
+{
+    background-color:var(--bs-black);
+    color: var(--bs-white);
+    margin: 0;
+}
